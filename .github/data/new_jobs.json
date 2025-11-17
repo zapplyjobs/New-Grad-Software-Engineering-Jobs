@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Apple",
+    "job_title": "Software Engineer, Observability",
+    "job_city": "San Francisco",
+    "job_state": "CA",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum QualificationsExperience and insight into designing, implementing and supporting highly scalable infrastructure services.\n• 4+ years of industry experience.\n• Deep understanding and work experience in distributed systems.\n• Deep understanding and work experience with distributed data collection and data streaming.\n• Experience with SNMP is desirable.\n• Experience integrating and using observability or telemetry systems to monitor distributed services.\n• Experience with one of Prometheus, Telegraf, OpenTelemetry is desirable.\n• Great communication skills.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200632611-3577/software-engineer-observability?team=SFTWR",
+    "id": "apple-software-engineer-observability-san-francisco"
+  }
+]
