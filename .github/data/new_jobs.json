@@ -1,12 +1,1 @@
-[
-  {
-    "employer_name": "Apple",
-    "job_title": "Software Engineer - FoundationDB",
-    "job_city": "San Francisco",
-    "job_state": "CA",
-    "job_posted_at": "22h",
-    "job_description": "• Minimum QualificationsBachelor's Degree in computer science or an equivalent engineering-related field.\n• Experience developing software in C or C++.\n• Experience with concurrency and multi-threading.\n• Knowledge of operating systems, distributed systems, networking, and storage systems.\n• Proficiency in optimizing CPU usage, memory allocation, profiling, I/O throughput and latency tuning.\n• Solid understanding of OS fundamentals (processes, threading, virtual memory, scheduling, concurrency primitives).\n• Solid understanding of some or all of the following database and distributed systems concepts: consensus algorithms (e.\n• , Raft, Paxos), distributed caching, failure recovery, database consistency models, fault tolerance, data replication, and load balancing.",
-    "job_apply_link": "https://jobs.apple.com/en-us/details/200632914-3577/software-engineer-foundationdb?team=SFTWR",
-    "id": "apple-software-engineer-foundationdb-san-francisco"
-  }
-]
+[]
