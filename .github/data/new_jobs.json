@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "Collaboration Engineer",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "1h",
+    "job_description": "• Experienced Professionals.\n• Join our GPU team to master every stage of hardware development and contribute to pioneering technology.",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/collaboration-engineer/33099/88080059728",
+    "id": "arm-collaboration-engineer-cambridge"
+  }
+]
