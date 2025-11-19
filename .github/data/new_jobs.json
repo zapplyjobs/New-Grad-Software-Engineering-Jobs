@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "Product Yield Enhancement Engineer, HBM",
+    "job_city": "Boise",
+    "job_state": "ID",
+    "job_posted_at": "1h",
+    "job_description": "• Senior/Principal Engineer, HIG-HBM Product Engineering (Media Health Reliability)Singapore, SingaporePosted 5 months ago Extensive expertise with process and assembly related defects as well as their causes and effects Characterize or model backend test, internal qualification, and RMA fail signatures Understand reliability concerns that can cause delayed breakdown fail signatures Knowledge of the steps and details involved in the package assembly flow Course work in VLSI design and semiconductor device physics (preferred) Experience working in teams and ability to work well with others Understand probe, backend test and qualification flows Excellent problem-solving and analytical skills Semiconductor process coursework and experience.",
+    "job_apply_link": "https://careers.micron.com/careers/job/38950940",
+    "id": "micron-technology-product-yield-enhancement-engineer-hbm-boise"
+  },
+  {
+    "employer_name": "Apple",
+    "job_title": "Pro Accessibility Software Engineer",
+    "job_city": "Cupertino",
+    "job_state": "CA",
+    "job_posted_at": "22h",
+    "job_description": "• Minimum QualificationsBachelor of Science in Computer ScienceExperience with at least one of the following languages and related development tools: ObjectiveC, Swift, C++, or CAbility to create, understand and maintain Object-Oriented software designs.",
+    "job_apply_link": "https://jobs.apple.com/en-us/details/200621814-0836/pro-accessibility-software-engineer?team=SFTWR",
+    "id": "apple-pro-accessibility-software-engineer-cupertino"
+  }
+]
