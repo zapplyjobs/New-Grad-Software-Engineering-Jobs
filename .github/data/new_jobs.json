@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Micron Technology",
+    "job_title": "SMTS Design Engineer, NVEG",
+    "job_city": "San Jose",
+    "job_state": "CA",
+    "job_posted_at": "1h",
+    "job_description": "• Cadence, hspice, XA, verilog), with reasonable skills in Python and Matlab for design flow automation Demonstrated experience with high-speed interfaces for NAND as well as DRAM (e.\n• Experience with post silicon activity such as providing training on product validation and implementing design fixes under constraints Deep knowledge and understanding of high-speed IO circuits performance, power and area optimization, chip architecture/floorplan Demonstrated experience in leading and mentoring others to impact organizational effectiveness and knowledge-sharing Optimize circuit design based on a comprehensive understanding of CMOS technology and reliability Experience with signal/power integrity, power delivery network design, physical design Ability to work effectively both as a collaborator and individual contributor Experience with CMOS BSIM model and creating CMOS targets for IO roadmap.\n• Maintain technical expertise, stay informed on industry trends, and provide training to the product validation team on design architecture and features Familiarity with full-custom EDA tools (e.\n• LPDDR5/LPDDR6) and other industry standard interfaces.",
+    "job_apply_link": "https://careers.micron.com",
+    "id": "micron-technology-smts-design-engineer-nveg-san-jose"
+  }
+]
