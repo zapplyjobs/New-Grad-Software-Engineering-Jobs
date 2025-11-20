@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "employer_name": "Arm",
+    "job_title": "RTL Design Engineer (CPU team)",
+    "job_city": "Cambridge",
+    "job_state": "MA",
+    "job_posted_at": "1h",
+    "job_description": "• Degree from a University or Engineering School in Computer Science, Mathematics, Electronic / Electrical Engineering, or other related field.\n• Ability to make trade-offs between power, performance and area appropriately to meet product requirements.\n• Strong RTL design skills in Verilog, SystemVerilog or VHDL.\n• “Nice To Have” Skills and Experience : Working experience in digital design.\n• Required Skills and Experience : Experienced Professionals.\n• Knowledge of scripting languages like Perl, TCL or Python.\n• Knowledge of computer architecture.",
+    "job_apply_link": "https://careers.arm.com/job/cambridge/rtl-design-engineer-cpu-team/33099/88641178208",
+    "id": "arm-rtl-design-engineer-cpu-team-cambridge"
+  },
+  {
+    "employer_name": "Google",
+    "job_title": "Software Engineer, Data and Telemetry, Google Beam",
+    "job_city": "Seattle",
+    "job_state": "WA",
+    "job_posted_at": "1h",
+    "job_description": "software engineering job for the role Software Engineer, Data and Telemetry, Google Beam",
+    "job_apply_link": "https://www.google.com/about/careers/applications/jobs/results/121837490360197830-software-engineer-data-and-telemetry-google-beam?location=United%20States&target_level=EARLY&target_level=MID&target_level=INTERN_AND_APPRENTICE&q=software%20engineering&page=1",
+    "id": "google-software-engineer-data-and-telemetry-google-beam-seattle"
+  }
+]
