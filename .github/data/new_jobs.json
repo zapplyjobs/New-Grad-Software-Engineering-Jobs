@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "employer_name": "Salesforce",
+    "job_title": "Software Engineering MTS",
+    "job_city": "Indianapolis",
+    "job_state": "IN",
+    "job_posted_at": "1h",
+    "job_description": "• Advanced experience in Go, with hands-on knowledge of go-chi for routing and gomega for testingStrong understanding of microservices architecture and experience building scalable, maintainable systems.\n• A deep understanding of Postgres and SQL is required.\n• Additionally, candidates must have solid experience with the Salesforce platform, including Lightning Web Components (LWC), Apex, and building performant REST APIs.\n• Familiarity with Experience Cloud is a strong plus, and prior experience working within Agentforce is highly desirable.\n• Integrate Salesforce with 3rd party applicationsParticipate in product and feature design with product team and business partnersDesign applications based on common design patterns and best practice algorithmsPlan, design, and enhance automation framework, utilities and toolsParticipate in and contribute to code reviewsWork with engineers, business analysts and product owners for product deliveryEnsure product quality meets customer expectations Life at Salesforce Our Locations Our Locations North America Europe, Middle East, and Africa Asia Pacific Latin America Our Teams Our Teams Sales Technology & Product Customer Success Corporate Roles AI Research University University Overview Interns New Grads Advanced Degrees Associate Program Manager Talent Programs Talent Programs Overview Future Pathways India Return to Work Military Fellows Our Story Newsroom Blog Careers Trust Salesforce.\n• Org Sustainability Investors Give us your Feedback 3+ years of experience programming (Go, Python, Java, C++, C#)Experience building large scale distributed systems, especially in cloud environmentsExperience with public cloud services (AWS or Heroku or Azure)A related technical degree required University Overview Interns New Grads Advanced Degrees Associate Program Manager General InformationRequired CookiesFunctional CookiesAdvertising Cookies.\n• Proficiency with Heroku and its ecosystem of add-ons such as Heroku Connect, NGINX, and Redis is essential.\n• Comfortable working with Docker, including building and managing Dockerfiles and Docker Compose YAML configurations.",
+    "job_apply_link": "https://careers.salesforce.com/en/jobs/jr317291/software-engineering-mts/",
+    "id": "salesforce-software-engineering-mts-indianapolis"
+  }
+]
